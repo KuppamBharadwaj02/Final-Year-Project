@@ -3,16 +3,21 @@ Project_Link :- https://drive.google.com/drive/folders/1RQhah-dzXtz-lm6Q4Dv4pXA3
 
 
 REAL-TIME CROWD MONIORING WITH INTELLIGENCE ALERT
+
 This repository hosts a real-time crowd monitoring system leveraging YOLO (You Only Look Once) object detection and Centroid Tracking algorithms. It enables accurate crowd counting, dynamic density analysis, and intelligent alerting for public safety and efficient crowd management.
 
 FEATURES
+
 Real-Time Detection & Tracking: Detects and tracks individuals in video feeds.
+
 Dynamic Crowd Analysis: Monitors density and movement patterns.
+
 Intelligent Alerts: Triggers alerts for overcrowding or anomalies.
 Optimized Performance: Utilizes multithreading for faster processing.
 
 
 PREREQUISTIES
+
 Python 3.8+
 NVIDIA GPU (optional for speed optimization)
 Required Python libraries (install via requirements.txt).
